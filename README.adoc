@@ -1,0 +1,11 @@
+=== ビルドのステータス
+
+ステータスのバッチ
+
+image::https://github.com/Analog-inc/asciidoctor-action-sample/workflows/CI/badge.svg[StatusBatch]
+
+
+バッチのフォーマット
+....
+image::https://github.com/{github_id}/{repository}/workflows/{workflow_name}/badge.svg?branch={branch_name}[StatusBatch]
+....

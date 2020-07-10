@@ -1,0 +1,3 @@
+[[README]]
+== ドキュメントインクルード (レベル1)
+include::README.adoc[]
